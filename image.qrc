@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1111.jpg</file>
+        <file>image/2222.png</file>
+        <file>image/3333.webp</file>
+        <file>image/4444.webp</file>
+        <file>image/5555.webp</file>
+        <file>image/6666.webp</file>
+        <file>image/people.jpg</file>
+        <file>image/返回.jpg</file>
+        <file>image/情况.jpg</file>
+        <file>image/申请.jpg</file>
+        <file>image/user.jpg</file>
+    </qresource>
+</RCC>
